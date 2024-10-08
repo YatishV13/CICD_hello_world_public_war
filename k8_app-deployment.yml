@@ -32,6 +32,6 @@ spec:
     spec:
       containers:
       - name: devopsapp
-        image: jfroghost123.jfrog.io/dockerrepo/test-managment:50
+        image: docker pull jamesndubuisi/hellodocker
         ports:
         - containerPort: 8080
