@@ -32,6 +32,6 @@ spec:
     spec:
       containers:
       - name: devopsapp
-        image: docker pull jamesndubuisi/hellodocker
+        image: jamesndubuisi/hellodocker
         ports:
         - containerPort: 8080
